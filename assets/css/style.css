@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body {
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+/*Estilo del navbar*/
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar h5 {
+    color: white !important;
+}
+
+.row {
+    padding: 30px;
+}
+
+.txt-0 h1 {
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.container {
+    background-color: black;
+}
+
+.container p {
+    color: white;
+    text-align: left;
+    font-size: 18px;
+    padding: 10px;
+}
+
+
+/*Iconos de redes sociales*/
+
+.icons {
+    background-color: #1bc1f4;
+}
+
+.fa-solid {
+    color: white;
+}
+
+
+.txt-2 {
+    color: white;
+    text-align: center;
+}
+
+/*Card de destacados*/
+
+.card {
+    background-color: #1bc1f4;
+    padding: 0;
+    border-color: black;
+}
+
+
+.txt-titulo {
+    color: white;
+    text-align: center;
+}
+
+form {
+    padding: 100px;
+}
+
+.form-label {
+    color: white;
+}
+
+.txt-5 {
+    color: white;
+    text-align: center;
+}
+
+
+
+.btn {
+    background-color: #1bc1f4;
+}
+
+footer {
+    width: 100%;
+    height: 130px;
+    background-color: #1bc1f4;
+}
+
+.col h1 {
+    color: white;
+}
+
+.fa-brands {
+    color: white;
+    font-size: 40px;
+}
+
+#container-f {
+    background-color: #1bc1f4;
+}
