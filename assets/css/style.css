@@ -1,9 +1,10 @@
+/*Estilo de la letra*/
+
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
 body {
     background-color: black;
     font-family: 'Raleway', sans-serif;
-
 }
 
 /*Estilo del navbar*/
@@ -68,6 +69,8 @@ body {
     text-align: center;
 }
 
+/*Estilo del formulario*/
+
 form {
     padding: 100px;
 }
@@ -81,11 +84,12 @@ form {
     text-align: center;
 }
 
-
-
 .btn {
     background-color: #1bc1f4;
 }
+
+
+/*Estilo de pie de pagina*/
 
 footer {
     width: 100%;
@@ -105,4 +109,3 @@ footer {
 #container-f {
     background-color: #1bc1f4;
 }
-
