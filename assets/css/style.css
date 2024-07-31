@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto Mono", monospace;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+    background-color: #212529;
+}
+
+.container-one {
+    /* border: solid 2px red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.container-one-left {
+    /* border: solid wheat 2px; */
+    text-align: center;
+    height: 300px;
+    align-content: center;
+}
+
+.container-one-left h1 {
+    color: #d9c0a0;
+    text-align: left;
+    font-size: 90px;
+    font-weight: 900;
+}
+
+.container-one-left h2 {
+    color: white;
+    font-size: 70px;
+    font-weight: 600;
+}
+
+.container-one-right {
+    /* border: solid red 2px; */
+    height: 350px;
+    background-color: #d9c0a0;
+    text-align: center;
+    align-content: center;
+}
+
+.stack {
+    color: white;
+}
+
+.py {
+    font-weight: 900;
+}
+
+.dev {
+    color: white;
+    font-weight: 700;
+}
+
+.sci {
+    font-weight: 900;
+    color: white;
+}
+
+section {
+    margin: 20px;
+}
+
+.container-left {
+    /* border: solid 2px wheat; */
+    display: flex;
+}
+
+img {
+    width: 550px;
+}
+
+.card {
+    justify-content: center;
+    text-align: justify;
+    background-color: rgba(0, 0, 0, 0.197);
+    color: white;
+}
+
+.card h2 {
+    padding: 15px;
+    color: #d9c0a0;
+}
+
+.font {
+    font-size: 20px;
+    padding: 20px;
+}
+
+.btn {
+    background-color: #d9c0a0;
+}
+
+.btn:hover {
+    background-color: #d9c0a0;
+}
+
+.container-two {
+    border: solid 2px red;
+}
+
+.nav-link {
+    color: #d9c0a0;
+    font-weight: 700;
+}
+
+.dropdown-menu {
+    background-color: #d9c0a0;
+}
+
+.dropdown-menu:hover {
+    background-color: #000000e0;
+}
+
+.dropdown-item {
+    font-weight: 700;
+}
+
+.container-three {
+    color: white;
+}
+
+.container-three h3 {
+    text-align: center;
+    color: #d9c0a0;
+}
+
+footer {
+    color: azure;
+    text-align: center;
+    background-color: black;
+    height: 90px;
+    align-content: center;
+    align-items: center;
+    font-size: 15px;
+    width: 100%;
+}
+
+
+
+/* Cookies */
+.cookies {
+    position: fixed;
+    bottom: 0;
+    background-color: #c3c3c3;
+    /* height: 100px; */
+    /* width: 80%; */
+    border: solid 2px black;
+}
+
+.cookies-body {
+    border: solid 1px black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* height: 100%; */
+}
+
+.cookies-body img {
+    width: 70px;
+    height: 70px;
+}
+
+.cookies-body p {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.btn-cooki {
+    height: 10%;
+    width: 130px;
+    border: 3px solid black;
+    background-color: #00bbb2;
+    color: white;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.btn-cooki:hover {
+    background-color: black;
+    border: 3px solid #00bbb2;
+    color: white;
+    box-shadow: 5px 5px 5px #00bbb2;
+}
+
+.card i {
+    color: #d9c0a0;
+}
+
+.social-icons {
+    text-align: center;
+}
+
+.navbar button {
+    background-color: #d9c0a0;
+}
+
+.card a {
+    color: #d9c0a07e;
+    text-decoration: none;
+}
+
+.btn-contact {
+    background-color: #00000025;
+    box-shadow: 0 4px 8px 0 #d9c0a0;
+    color: white;
+}
+
+
+.btn-contact:hover {
+    background-color: #00000070;
+    box-shadow: 4px 4px 8px 0 rgba(0, 255, 247, 0.5);
+}
+
+.btn-contact-t {
+    background-color: #00000025;
+    box-shadow: 0 4px 8px 0 #d9c0a0;
+    color: white;
+}
+
+.btn-contact-t:hover {
+    background-color: #00000070;
+    box-shadow: 4px 4px 8px 0 rgba(0, 255, 247, 0.5);
+}
