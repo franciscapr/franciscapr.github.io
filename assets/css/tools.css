@@ -10,9 +10,15 @@ body {
 }
 
 #devolucionesMensaje {
-    color: rgba(227, 231, 20, 0.605);
+    color: rgba(228, 231, 20, 0.745);
 }
 
 #ajusteMargen {
-    color: rgba(20, 224, 231, 0.734);
+    color: rgba(20, 224, 231, 0.863);
 }
+
+#margenNuevo {
+    margin: 5%;
+    color: rgba(228, 231, 20, 0.745);
+}
+
